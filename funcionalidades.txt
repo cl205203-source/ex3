@@ -1,0 +1,4 @@
+1. Cadastro de novos livros e autores no acervo.
+2. Registro e controle de empréstimos e devoluções de livros.
+3. Sistema de busca de títulos por nome, autor ou ano de publicação.
+4. Emissão de alertas ou relatórios de livros com devolução em atraso.
